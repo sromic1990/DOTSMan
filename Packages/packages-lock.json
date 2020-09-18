@@ -164,6 +164,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.quicksearch": {
+      "version": "1.5.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.rendering.hybrid": {
       "version": "0.8.0-preview.19",
       "depth": 0,
